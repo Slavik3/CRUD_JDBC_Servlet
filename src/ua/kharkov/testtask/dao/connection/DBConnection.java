@@ -9,7 +9,7 @@ import java.sql.*;
  */
 public class DBConnection {
 	private final static String url = "jdbc:mysql://localhost/";
-	private final static String dbName = "vyacheslav_kozlov_akvelon";
+	private final static String dbName = "crud_db";
 	private final static String driver = "com.mysql.jdbc.Driver";
 	private final static String userName = "root";
 	private final static String password = "";
