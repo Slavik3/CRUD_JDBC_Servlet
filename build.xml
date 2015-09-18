@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<project name="AntTask" default="buildwar" >
+		<target name="buildwar" description="create a war file">
+		    <war basedir="${basedir}/build" destfile="VyacheslavKozlovTask.war" webxml="${basedir}/WebContent/WEB-INF/web.xml">
+		     <fileset dir="WebContent"/>
+		     <exclude name="WEB-INF/**" />
+		     <classes dir="build/classes"/>             
+		    </war> 
+		</target>
+	</project>
