@@ -3,7 +3,7 @@
   <display-name>VyacheslavKozlovTask</display-name>
   <filter>
     <filter-name>f1</filter-name>
-    <filter-class>ua.kharkov.akvelon.testtask.servlets.filter.IndexPageFilter</filter-class>
+    <filter-class>ua.kharkov.testtask.servlets.filter.IndexPageFilter</filter-class>
   </filter>
   <filter-mapping>
     <filter-name>f1</filter-name>
