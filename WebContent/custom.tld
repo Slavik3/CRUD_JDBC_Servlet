@@ -6,7 +6,7 @@
  <short-name>CurrentYear</short-name>
  <tag>
     <name>CurrentYear</name>
-    <tag-class>ua.kharkov.akvelon.testtask.customtags.CurrentYear</tag-class>
+    <tag-class>ua.kharkov.testtask.customtags.CurrentYear</tag-class>
     <body-content>empty</body-content>
   </tag>
 </taglib>
