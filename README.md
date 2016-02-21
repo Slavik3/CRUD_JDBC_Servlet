@@ -18,3 +18,11 @@ o	by clicking button “Save” the edit page should be closed, changed data sho
 o	by clicking button “Add” the edit page should be closed, data should be added in DB and first page should be shown with refreshed data.
 o	by clicking “Cancel” button the edit page should be closed and first page should be shown with refreshed data.
 -	Use ant build script to create war-file to be deployed
+-	
+A plus is:
+- use of some components library
+- use of custom taglibs 
+- use of spring framework is plus
+- use of Ajax technology
+- applying CSS 
+
